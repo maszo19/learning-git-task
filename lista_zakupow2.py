@@ -1,6 +1,8 @@
 shopping = {"piekarnia": ["chleb", "bułki", "pączek"],
-          "warzywniak": ["marchew", "seler", "rukola"]
-          }
+            "warzywniak": ["marchew", "seler", "rukola"],
+            "supermarket": ["sos sojowy", "passata pomidorowa", "orzechy nerkowca", "mleko kokosowe"],
+            "meblowy": ["bieżnik", "prześcieradło", "krzesło"]
+            }
 count = 0
 
 for store, list in shopping.items():
