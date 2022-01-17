@@ -11,3 +11,4 @@ for store, list in shopping.items():
     count += len(list)
 
 print(f"W sumie kupuję {count} produktów.\n")
+print("Pozdrawiam Pana Mentora.")
